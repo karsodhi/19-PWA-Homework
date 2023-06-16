@@ -5,8 +5,10 @@ This is my 19th  homework assignment.  The task was to build a text editor that 
 the website contains HTML, CSS, Javascript , express, PWA, front end & back end
 
 # deployed link
-
+https://pwa-text-hw-aa8872ddf617.herokuapp.com/
 # github
 https://github.com/karsodhi/19-PWA-Homework
 # mentions
 worked with TA and class for this homework assignment 
+
+![This is the JATE editor](./assets/jate.jpg)
