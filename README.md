@@ -7,6 +7,6 @@ the website contains HTML, CSS, Javascript , express, PWA, front end & back end
 # deployed link
 
 # github
-https://github.com/karsodhi/19-PWA-Assignment
+https://github.com/karsodhi/19-PWA-Homework
 # mentions
 worked with TA and class for this homework assignment 
